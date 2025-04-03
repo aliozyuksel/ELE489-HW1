@@ -12,8 +12,8 @@ There are also accuracy evluation, confusion matrix visualization, and accuracy 
 
 ## Data
  
-There are 13 features and 3 labels in the data
-
+- There are 13 features and 3 labels in the data.
+- 178 sample presents.
 ## How to run
 
 - To run this project, put wine.data, analysis.ipynb and knn.py in the same folder.
